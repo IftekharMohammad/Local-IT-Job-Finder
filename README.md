@@ -9,3 +9,11 @@ Local IT Job Finder is a desktop based job scraping & parsing application built 
 * MySQL
 
 ## Screenshots
+
+![Alt text](Screenshots/1.png?raw=true "Local IT Job Finder Screenshots")
+![Alt text](Screenshots/2.png?raw=true "Local IT Job Finder Screenshots")
+![Alt text](Screenshots/3.png?raw=true "Local IT Job Finder Screenshots")
+![Alt text](Screenshots/4.png?raw=true "Local IT Job Finder Screenshots")
+![Alt text](Screenshots/5.png?raw=true "Local IT Job Finder Screenshots")
+![Alt text](Screenshots/6.png?raw=true "Local IT Job Finder Screenshots")
+![Alt text](Screenshots/7.png?raw=true "Local IT Job Finder Screenshots")
